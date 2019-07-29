@@ -1,0 +1,12 @@
+.result {
+  height: 100px;
+  width: 100%;
+  background-color: rgba(50, 30, 0, 0.8);
+}
+
+.result p {
+  font-size: 30px;
+  margin: 5px;
+  float: right;
+  color: white;
+}
